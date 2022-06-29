@@ -1,0 +1,17 @@
+.footer__column-link {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #ffff;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  list-style-type: none;
+  display: block;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
+.footer__column-link:last-child {
+  margin-bottom: 0;
+}
